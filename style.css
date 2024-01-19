@@ -1,0 +1,25 @@
+.row {
+  position: relative;
+  left: 10px;
+}
+th {
+  padding-left: 20px;
+}
+td {
+  padding: 29px;
+}
+th {
+  padding-left: 29px;
+}
+.col-12 {
+  padding-left: 29px;
+}
+body {
+  background-color: rgb(183, 172, 172);
+}
+.red-text {
+  color: red;
+}
+.yellow-star {
+  color: #ec9f1c;
+}
